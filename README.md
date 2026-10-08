@@ -1,1 +1,1 @@
-# archsms-resources
+# arxsms-resources
